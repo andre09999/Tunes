@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tunes/static/css/main.eaf02366.chunk.css",
+    "main.js": "/Tunes/static/js/main.5e7efe07.chunk.js",
+    "main.js.map": "/Tunes/static/js/main.5e7efe07.chunk.js.map",
+    "runtime-main.js": "/Tunes/static/js/runtime-main.e5f87c92.js",
+    "runtime-main.js.map": "/Tunes/static/js/runtime-main.e5f87c92.js.map",
+    "static/js/2.e9f8f1da.chunk.js": "/Tunes/static/js/2.e9f8f1da.chunk.js",
+    "static/js/2.e9f8f1da.chunk.js.map": "/Tunes/static/js/2.e9f8f1da.chunk.js.map",
+    "index.html": "/Tunes/index.html",
+    "static/css/main.eaf02366.chunk.css.map": "/Tunes/static/css/main.eaf02366.chunk.css.map",
+    "static/js/2.e9f8f1da.chunk.js.LICENSE.txt": "/Tunes/static/js/2.e9f8f1da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5f87c92.js",
+    "static/js/2.e9f8f1da.chunk.js",
+    "static/css/main.eaf02366.chunk.css",
+    "static/js/main.5e7efe07.chunk.js"
+  ]
+}
